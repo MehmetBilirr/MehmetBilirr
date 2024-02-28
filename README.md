@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetbilirr&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetbilirr" /> </p>
 
-- 🤝 I’m looking for job as **iOS Developer**
-
 - 📫 How to reach me **mehmetbilir@aol.com**
 
 <h3 align="left">Connect with me:</h3>
